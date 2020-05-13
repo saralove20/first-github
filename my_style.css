@@ -1,0 +1,14 @@
+body { height: 100%; 
+    font-family: "Open Sans", sans-serif; 
+   }
+h1 { font-size: 70px; 
+    color: rgb(252, 80, 243) }
+#hana {color: rgb(123, 182, 250)}
+#dul {color: rgb(219, 240, 128)}
+#set {color: rgb(182, 123, 250)}
+h2 { font-size: 36px; }
+p {
+font-size: 13px; color:black; line-height: 2;
+}
+summary {color:red;}
+img { max-width: 25%; }
